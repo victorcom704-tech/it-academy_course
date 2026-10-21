@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<report><total>7</total><passed>3</passed><failed>4</failed><percentage>42.9</percentage><errors><error>Ожидалось True, получили False</error><error>Ожидалось False, получили True</error><error>Ожидалось True, получили False</error><error>Ожидалось False, получили True</error></errors></report>

@@ -1,0 +1,9 @@
+total: 7
+passed: 3
+failed: 4
+percentage: 42.9
+errors:
+- Ожидалось True, получили False
+- Ожидалось False, получили True
+- Ожидалось True, получили False
+- Ожидалось False, получили True
